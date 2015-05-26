@@ -1,0 +1,32 @@
+{
+  "name": "dlmanning.github.io",
+  "version": "1.0.0",
+  "description": "David Manning's Website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlmanning/dlmanning.github.io.git"
+  },
+  "keywords": [
+    "website",
+    "webring",
+    "awesome"
+  ],
+  "author": "David Manning",
+  "license": "2KILL",
+  "bugs": {
+    "url": "https://github.com/dlmanning/dlmanning.github.io/issues"
+  },
+  "homepage": "https://github.com/dlmanning/dlmanning.github.io#readme",
+  "dependencies": {
+    "color": "^0.8.0",
+    "radium": "^0.12.2",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.4.7"
+  }
+}
